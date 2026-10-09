@@ -38,9 +38,10 @@ DevOps-Protofolio/
 ### Outcome
 Successfully deployed a personal DevOps portfolio website using GitHub Pages. The website displays information about my technical skills and projects and is accessible through a public URL.
 
-### Links
-- **GitHub Repository:** https://github.com/iamamitha16/DevOps-Protofolio
-- **Live Website:** https://iamamitha16.github.io/DevOps-Protofolio/
+### Project Links
+
+- **GitHub Repository:** https://github.com/iamamitha16/DevOps-Portfolio
+- **Live Website:** https://iamamitha16.github.io/DevOps-Portfolio/
 
 ### Conclusion
 This task helped me understand static website hosting, Git version control, GitHub repository management, and the deployment process using GitHub Pages. It also provided practical experience in publishing a website online.
